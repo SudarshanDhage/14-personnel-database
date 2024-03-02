@@ -54,7 +54,7 @@ class App extends React.Component {
           <h3>Loading...</h3>
         )}
         <footer>
-          Created in Brooklyn, NY in the year 2020 by{' '}
+          Created in Pune, India in the year 2024 by{' '}
           <a href='https://www.linkedin.com/in/sudarshan-dhage/'>Sudarshan Dhage</a>
         </footer>
       </React.Fragment>
